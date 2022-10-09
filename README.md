@@ -36,6 +36,7 @@ as follows with the data sensitivity.
 
 Those privilege levels have been mapped to the data_sensitivity dictionary in the program as 
 the following format.
+
 • {privilege_level: {data_type:[view_permission,edit_permission]}}
 The program will be as follows.
 data_map = {0: "personal_details", 1: "sickness_details", 2: "drug_prescription", 3: 
