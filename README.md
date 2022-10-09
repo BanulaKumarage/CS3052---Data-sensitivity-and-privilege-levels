@@ -61,3 +61,14 @@ providing unexpected outputs with invalid user inputs is less. Passwords have be
 md5 hashing format. 
 
 Some of the sample data have been added and the credentials of the user account are as follows.
+
+| Username | Password |
+|----------|:--------:|
+| Nimal    | password |
+| Sandun   | password |
+| Kamal    | password |
+| Dasun    | password |
+| Udith    | password |
+| Pramod   | password |
+| Mahela   | password |
+| Pamudu   | password |
